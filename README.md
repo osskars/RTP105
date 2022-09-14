@@ -33,12 +33,12 @@ This site was built using [GitHub Pages](https://docs.github.com/en/get-started/
     8  ls -l - parāda failu saturu tabulā
     9  ls -a -l
    10  cd . - change directory
-   11  root
+   11  root - 
    12  mkdir ABC - veidojam jaunu failu ( nosauk-ABC)
-   13  /ABC$ ls -laq
-   14  /ABC$ ls -la
-   15  /ABC$ pwd
-  
+   13  /ABC$ ls -laq - 
+   14  /ABC$ ls -la - 
+   15  /ABC$ pwd - 
+   
 
 
 
