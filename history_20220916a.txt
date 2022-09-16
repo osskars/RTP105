@@ -1,0 +1,70 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ps aux
+    4  chromium -browser
+    5  chromium-browser
+    6  firefox
+    7  cd
+    8  cd .
+    9  ps aux
+   10  pwd
+   11  ls -l
+   12  cd .
+   13  pw
+   14  pwd
+   15  echo $0
+   16  a
+   17  b
+   18  A
+   19  UNAME
+   20  uname
+   21  man uname
+   22  uname -a
+   23  git clone https://github.com/osskars/RTP105
+   24  ls -l
+   25  ls-lt
+   26  ls -l
+   27  git clone https://github.com/osskars/RTP105 RTR105
+   28  ls -lt
+   29  rmdirRTR105
+   30  rmdir RTR105
+   31  rmir --ignore-fail 
+   32  rm -r RTP105
+   33  git clone https://github.com/osskars/RTP105
+   34  git clone https://github.com/osskars/RTP105p
+   35  ls -lt
+   36  history
+   37  history >_20220916a.txt
+   38  history >history_20220916a.txt
+   39  ls -lt
+   40  cat history_20220916a.txt
+   41  cat
+   42  nano history > history_20220916a.txt
+   43  cat history
+   44  cat history_20220916a.txt
+   45  ls -lt
+   46  mv history_20220916a.txt ~/RTP105p
+   47  ls -lt
+   48  mv history_20220916a.txt ~/RTP105
+   49  git add .
+   50  git config -- global user.name osskario
+   51  git config --global user.name osskario
+   52  git config --global email ...
+   53  git config --global user.email ...
+   54  /RTP105 git config --global user.name osskario
+   55  RTR105 git push origin main
+   56  /RTR105$ git push origin main
+   57  /RTP105$ git push origin main
+   58  /RTR105 git push origin main]
+   59  pwd
+   60  ls -lt
+   61  rm history.save 
+   62  rm RTP105
+   63  rm -rf RTP105
+   64  ls -lt
+   65  rn RTP105p 
+   66  rm RTP105p 
+   67  rn _20220916a.txt 
+   68  rm _20220916a.txt 
+   69  ls -lt
+   70  history > history_20220916a.txt
