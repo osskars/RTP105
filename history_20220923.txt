@@ -1,0 +1,82 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  description
+    5  L
+    6  man
+    7  man ls
+    8  whereisls
+    9  whereis ls
+   10  pwd
+   11  ls -l /bins/ls
+   12  ls -l /bin/ls
+   13  cd /bin/
+   14  ls
+   15  ls -lt
+   16  cd
+   17  pwd
+   18  ls
+   19  whereis ls
+   20  ls -lt /bin/ls
+   21  cat /bin/ls
+   22  ls - lt/bin/
+   23  ls
+   24  whereisls
+   25  hello-world
+   26  ls
+   27  nano hello-world
+   28  chmod
+   29  ]ls
+   30  ls
+   31  chmod
+   32  ls -lt
+   33  chmod 744 hell-world
+   34  chmod 744 hello-world
+   35  ls -lt
+   36  echo "Hello, world"
+   37  cat /bin/hello-world
+   38  cat/hello-world
+   39  cat /hello-world/
+   40  ls
+   41  ls -lt
+   42  cat /bin/hello-world/
+   43  ./hello-world
+   44  /home/user/hello-world
+   45  pwd
+   46  cp hello-world /bin/
+   47  whereis ls
+   48  exho $PATH
+   49  PATH=$PATH
+   50  echo $PATH
+   51  PATH=$PATH:/home/user:~:.
+   52  hello-world
+   53  hello-world 
+   54  hello-world!
+   55  hello-world
+   56  history
+   57  git clone https://github.com/osskars/RTP105/blob/main/README.md
+   58  mv hello-world RTP105
+   59  ls -lt
+   60  pwd
+   61  ls -lt
+   62  cd
+   63  pwd
+   64  cd RTP105/
+   65  cd RTP105
+   66  pwd
+   67  cd RTP105/
+   68  ls- lt
+   69  ls -lt
+   70  cd
+   71  ls -lt
+   72  mv RTP105 hello-world
+   73  cd
+   74  ls -lt
+   75  mv RTP105
+   76  mkdir RTP105
+   77  ls -lt
+   78  nano RTP105
+   79  nano git-upload
+   80  ls -lt
+   81  chmod 744 git-upload
+   82  history > history_20220923.txt
