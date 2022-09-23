@@ -80,3 +80,108 @@
    80  ls -lt
    81  chmod 744 git-upload
    82  history > history_20220923.txt
+   83  ls -lt
+   84  /RTP105$ git-upload
+   85  cd
+   86  cd RTP105 
+   87  git-upload
+   88  class_04
+   89  git clone https://github.com/osskars/RTP105
+   90  ls -lt
+   91  pwd
+   92  cd
+   93  pwd
+   94  ls- lt
+   95  ls -lt
+   96  cd RTP105/
+   97  pwd
+   98  ls -lt
+   99  history > history20220923.txt
+  100  ls -lt
+  101  ls -lta
+  102  cd RTP105/
+  103  ls -lta
+  104  pwd
+  105  ls -lta
+  106  mv ../../hello-world ./
+  107  mv ../../git-upload ./
+  108  ls -lt
+  109  mv ../../history_20220923.txt ./
+  110  ls -lt
+  111  mv ../history20220923.txt ./
+  112  ls -lt
+  113  nano git-upload 
+  114  git-upload
+  115  ls -lt
+  116  echo $PATH
+  117  ./git-upload 
+  118  git -upload
+  119  git-upload
+  120  osskario
+  121  ./git-upload
+  122  pwd
+  123  cd
+  124  pwd
+  125  rm -rf RTP105
+  126  ls -lt
+  127  git clone https://github.com/osskars/RTP105
+  128  pwd
+  129  RTP105
+  130  cd RTP105
+  131  pwd
+  132  ls -lt
+  133  nano git-upload
+  134  pwd
+  135  ls -lt
+  136  nano linux_special_variables_test.sh
+  137  cd
+  138  hello-world
+  139  ls- lt
+  140  ls -lt
+  141  cd
+  142  pwd
+  143  cd RTP105
+  144  ls -lt
+  145  nano linux_special_variables_test.sh
+  146  ls -lt
+  147  linux_special_variables_test.sh
+  148  pwd
+  149  ls -lt
+  150  ./linux_special_variables_test.sh
+  151  chmod 744 linux_special_variables_test.sh
+  152  ls -lt
+  153  ./linux_special_variables_test.sh
+  154  cat linux_special_variables_test.sh
+  155  mv linux_special_variables_test.sh
+  156  pwd
+  157  ls -lt
+  158  mv linux_special_variables_test.sh
+  159  mv linux_special_variables_test.sh test.sh
+  160  ls -lt
+  161  nano test.sh
+  162  ./test.sh
+  163  /home/user/RTP105
+  164  pwd
+  165  ./test.sh
+  166  nano test.sh
+  167  mv test.sh linux_special_variables_test.sh
+  168  ls -lt
+  169  test.sh linux_special_variables_test.sh arh1 arg2
+  170  test.sh linux_special_variables_test.sh arh1 arg2 arg3
+  171  test.sh linux_special_variables_test.sh arg1 arg2 arg3
+  172  nano test.sh linux_special_variables_test.sh 
+  173  test.sh linux_special_variables_test.sh arg1 arg2 arg3
+  174  nano test.sh linux_special_variables_test.sh 
+  175  ls -lt
+  176  linux_special_variables_test.sh arg1 arg2 arg3
+  177  linux_special_variables_test.sh A1 B1
+  178  ls -lt
+  179  nano git-upload
+  180  cat git-upload
+  181  history >history_20220923.txt 
+  182  git-upload 05
+  183  history > history_20220923.txt
+  184  git-upload 05
+  185  nano git-upload
+  186  ls -lt
+  187  history > history_20220923.txt
