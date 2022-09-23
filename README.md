@@ -39,6 +39,14 @@ This site was built using [GitHub Pages](https://docs.github.com/en/get-started/
    14  /ABC$ ls -la - 
    15  /ABC$ pwd - 
    
+#### Class 03
+    Hardware:
+#### bit
+#### byte = 8bits 
+#### 1kB = 1024 B
+#### 1mB = 1024 B
+#### 1GB = 1024 MB
+   
 
 
 
