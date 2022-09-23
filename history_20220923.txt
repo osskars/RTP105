@@ -185,3 +185,35 @@
   185  nano git-upload
   186  ls -lt
   187  history > history_20220923.txt
+  188  git-upload 05
+  189  cd
+  190  cd RTR105
+  191  cd RTP105
+  192  pwd
+  193  ls -lt
+  194  nano git-upload
+  195  git-upload 05
+  196  echo $PATH
+  197  ./git-upload 05
+  198  history
+  199  ls
+  200  echo$?
+  201  echo $?
+  202  echo $ ?
+  203  ls
+  204  echo $?
+  205  hello-world
+  206  pwd
+  207  $PATH
+  208  hello-world
+  209  cd
+  210  pwd
+  211  hello-world
+  212  ./hello-world
+  213  cd RTP105
+  214  ./Hello-world
+  215  ./ hello-world
+  216  ./hello-world
+  217  ls-lt
+  218  ls -lt
+  219  history > history_20220923.txt
