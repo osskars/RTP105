@@ -1,0 +1,8 @@
+//Visas atbildes ir šeit https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2596.pdf
+
+#include<stdio.h
+
+int main ()
+(
+char cl=`A`
+
