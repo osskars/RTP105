@@ -46,12 +46,28 @@ This site was built using [GitHub Pages](https://docs.github.com/en/get-started/
  - 1kB = 1024 B
  - 1mB = 1024 B
  - 1GB = 1024 MB
+ 
 #### Class 04
 #!bin/bash
 echo "Hello,world!"
-# Ar "#" zīmi tiek rakstīts komentārs
+# Ar " # " zīmi tiek rakstīts komentārs
 
-   
+#### Class 05
+#!/bin/bash
+#https://www.tutorialspoint.com/unix/unix-special-variables.htm
+echo "File Name: $0"
+echo "First parameter : $1"
+echo "Second parameter : $2"
+echo "Quoted values: $@"
+echo "Quoted values: $*"
+echo "Total number of Parameters : $#"
+
+#echo "Please, enter some text."
+#read var_string
+#echo "You have entered $var_string"
+
+#### Class 06
+
 
 
 
