@@ -46,6 +46,11 @@ This site was built using [GitHub Pages](https://docs.github.com/en/get-started/
  - 1kB = 1024 B
  - 1mB = 1024 B
  - 1GB = 1024 MB
+#### Class 04
+#!bin/bash
+echo "Hello,world!"
+# Ar "#" zīmi tiek rakstīts komentārs
+
    
 
 
