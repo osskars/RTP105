@@ -50,7 +50,7 @@ This site was built using [GitHub Pages](https://docs.github.com/en/get-started/
 #### Class 04
 #!bin/bash
 echo "Hello,world!"
-# Ar " # " zīmi tiek rakstīts komentārs
+Ar " # " zīmi tiek rakstīts komentārs
 
 #### Class 05
 #!/bin/bash
@@ -66,7 +66,7 @@ echo "Total number of Parameters : $#"
 #read var_string
 #echo "You have entered $var_string"
 
-#### Class 06
+
 
 
 
