@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+#include<stdlib.h>
 
 void main ()
 {
@@ -9,14 +10,15 @@ void main ()
  x = a;
  while(x<b)
 {
-   //y = sin(x);
+ //y = sin(x);
   printf("%10.2f\n",x);
   //printf("%10.2f\t%10.2f\n",x,y);
   x+= delta_x;//x = x + delta_x;
  }
-   {
-  char word[] = "massive";
-    printf("The object is %s.\n", word);
-    return 0;
- }
+{
+float *buffer1;
+buffer1 [ 1 ] = x;
+int NN = (b-a)/delta_x + 1; //
+buffer1 = (float*) malloc (NN * sizeof(float));
+   }
 }
