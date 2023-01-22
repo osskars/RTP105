@@ -1,42 +1,29 @@
 #include <stdio.h>
 #include <math.h>
 
-double Y_exp(double x) {
-    //actual implementation of Y=e^(x)
-    return exp(x);
-}
-
-double Y_exp_derivative(double x) {
-    //actual implementation of Y=e^'(x)
-    return exp(x);
-}
+#define PI 3.14159265
 
 int main() {
-    double a, b, c, f1, f2, x;
+    int i;
+    double x, y;
 
-    printf("Please enter the first value: ");
-    scanf("%lf", &a);
-    printf("\nPlease enter the second value: ");
-    scanf("%lf", &b);
-    printf("\nPlease enter the precision value: ");
-    scanf("%lf", &c);
-
-    printf("\n        x            Y=e^(x)          Y=e^'(x)            Y=e^'(x)             Y=e^''(x)           Y=e^''(x)  \n"
-           "                                analytical formula  finite difference analytical formula finite difference\n");
-    printf("\n");
-
-    x = a;
-    while (x < b) {
-        double aa = Y_exp(x);
-        double ab = Y_exp_derivative(x);
-        double ac = (Y_exp(x + c) - Y_exp(x - c)) / (2 * c);
-        double ad = (Y_exp(x + c) - 2 * Y_exp(x) + Y_exp(x - c)) / (c * c);
-        f1 = (1 / (1 + pow(x + c, 2)));
-        f2 = (1 / (1 + pow(x, 2)));
-        double ae = (f1 - f2) / c;
-
-        printf(" %10.3f\t%10.3f\t %10.3f\t   %10.3f\t       %10.3f\t   %10.3f\n", x, aa, ab, ac, ad, ae);
-        x += c;
+    // Open the file for writing
+    FILE *f = fopen("graph.dat", "w");
+    if (f == NULL) {
+        printf("Error opening file!\n");
+        return 1;
     }
+
+    // Write the data to the file
+    for (i = 0; i <= 360; i++) {
+        x = (double)i * PI / 180;
+        y = exp(x);
+        fprintf(f, "%f %f\n", x, y);
+    }
+
+    // Close the file
+    fclose(f);
+
+    printf("Data has been written to graph.dat\n");
     return 0;
 }
