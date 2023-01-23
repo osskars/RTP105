@@ -16,7 +16,7 @@ int main(void)
     int result = first_number * second_number;
 
     //attelojums
-    printf("The result is%d\n",result);
+    printf("The result is: %d\n",result);
 
     return 0;
 }
