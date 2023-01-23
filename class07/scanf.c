@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main ()
+ int main ()
 {
   char str [80];
   int i;

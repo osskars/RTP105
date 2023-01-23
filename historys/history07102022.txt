@@ -1,4 +1,4 @@
-    1  VirtualBox --startvm XP
+     1  VirtualBox --startvm XP
     2  quartus
     3  nano
     4  lmap

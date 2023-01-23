@@ -1,4 +1,4 @@
-]// nosacījuma operators if tiek izmantots koda izpildes sazarošanai
+ ]// nosacījuma operators if tiek izmantots koda izpildes sazarošanai
 //if(izteiksme) idarbība_1_gab;
 //if(izteiksme)
 // darbiiba_1_gab;
